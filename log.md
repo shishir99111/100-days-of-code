@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 17, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+- Jexia issue resolved using singleton pattern. 
+- Facade Pattern for the perform CRUD operation.
+- Portfolio update for workEx in bullet points and more presentable way.
+- Pluralsight studied Facade, flyweight pattern.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** An Awe feeling caught me up when i realised the design patter i learnt yesterday solved my problem, in which i was stucked for days!.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
 
 
-### Day 1: June 27, Monday
+### Day 2: May 18, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
+- I've gone through Pluralright for Observer, Mediator, Command Pattern.
+- Jexia Implementation: Generic Create and Read operation request which can cater for all the collections.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Jexia is awesome, by the way it manages everything needed a big application and provide it in a form of Library to consume.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
