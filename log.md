@@ -2,8 +2,8 @@
 
 ### Day 1: May 17, 2018
 
-**Today's Progress**: 
-- Jexia issue resolved using singleton pattern. 
+**Today's Progress**:
+- Jexia issue resolved using singleton pattern.
 - Facade Pattern for the perform CRUD operation.
 - Portfolio update for workEx in bullet points and more presentable way.
 - Pluralsight studied Facade, flyweight pattern.
@@ -12,7 +12,6 @@
 
 **Link to work:** [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
 
-
 ### Day 2: May 18, 2018
 
 **Today's Progress**: 
@@ -20,6 +19,16 @@
 - Jexia Implementation: Generic Create and Read operation request which can cater for all the collections.
 
 **Thoughts** Jexia is awesome, by the way it manages everything needed a big application and provide it in a form of Library to consume.
+
+**Link(s) to work**
+1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
+
+### Day 2: May 18, 2018
+
+**Today's Progress**: 
+- Jexia Implementation: Generic Dataset validation with the custom Joi validation.
+
+**Thoughts** Serverless is the way to scalability!..
 
 **Link(s) to work**
 1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
