@@ -23,7 +23,7 @@
 **Link(s) to work**
 1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
 
-### Day 2: May 18, 2018
+### Day 3: May 19, 2018
 
 **Today's Progress**: 
 - Jexia Implementation: Generic Dataset validation with the custom Joi validation.
