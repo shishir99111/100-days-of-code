@@ -28,7 +28,7 @@
 **Today's Progress**: 
 - Jexia Implementation: Generic Dataset validation with the custom Joi validation.
 
-**Thoughts** Serverless is the way to scalability!..
+**Thoughts** Serverless is the modern way to scalability!..
 
 **Link(s) to work**
 1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
