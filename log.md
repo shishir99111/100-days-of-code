@@ -32,3 +32,22 @@
 
 **Link(s) to work**
 1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
+
+### Day 4: May 20, 2018
+
+**Today's Progress**: 
+- Jekyll theme update in Portfolio project with workEx updation.
+- Studied Creational Design Patterns.
+
+**Thoughts** Overwhelmed and motivated with the response of #100DaysOfCode
+
+**Link(s) to work**
+1. [Jekyll](https://github.com/shishir99111/portfolio)
+
+### Day 5: May 21, 2018
+
+**Today's Progress**: 
+- Studied and Implementation Module pattern and constructor pattern in different ways such as classes and prototypes.
+
+**Link(s) to work**
+1. [JS Design Pattern](https://github.com/shishir99111/js_design_pattern)
