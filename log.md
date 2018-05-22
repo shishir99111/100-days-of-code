@@ -51,3 +51,22 @@
 
 **Link(s) to work**
 1. [JS Design Pattern](https://github.com/shishir99111/js_design_pattern)
+
+### Day 5: May 21, 2018
+
+**Today's Progress**: 
+- Studied and Implementation Module pattern and constructor pattern in different ways such as classes and prototypes.
+
+**Link(s) to work**
+1. [JS Design Pattern](https://github.com/shishir99111/js_design_pattern)
+
+### Day 6: May 22, 2018
+
+**Today's Progress**: 
+- Modernization of JS code in ES6 Standard for all the examples.
+
+**Thoughts** Learning by dealing with real challenges is better than learning by tutorials, combination of both can lead you to have best of both the world.
+If you feel you're stuck in a single topic for long as you're involved in exploring the possibilities dont bother much about those thoughts, as this exercise will lead you to expertise in that topic.
+
+**Link(s) to work**
+1. [JS Design Pattern](https://github.com/shishir99111/js_design_pattern)
