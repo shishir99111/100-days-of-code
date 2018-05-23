@@ -70,3 +70,14 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 
 **Link(s) to work**
 1. [JS Design Pattern](https://github.com/shishir99111/js_design_pattern)
+
+### Day 7: May 23, 2018
+
+**Today's Progress**: 
+- Dynamic schema and request body validation on the basis of dataset passed in params.
+- Implemented javascript examples of Singleton, Factory and Module Pattern.
+
+**Thoughts** The greatest project you'll ever work on is you.
+
+**Link(s) to work**
+1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
