@@ -81,3 +81,13 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 
 **Link(s) to work**
 1. [Jexia Blogger](https://github.com/shishir99111/jexia-blogger)
+
+### Day 8: May 24, 2018
+
+**Today's Progress**: 
+- JS Implementation of minimalistic and advanced implementation of Decorator Pattern.
+
+**Thoughts** When we program, we work at a much higher level of abstraction. The goal should be to cut down this abstraction barrier from learning and problem solving aspects, Keeping in mind not to reinvent the wheel!
+
+**Link(s) to work**
+1. [JS Design Pattern](https://github.com/shishir99111/js_design_pattern)
