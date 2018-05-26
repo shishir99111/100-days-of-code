@@ -91,3 +91,23 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 
 **Link(s) to work**
 1. [JS Design Pattern](https://github.com/shishir99111/js_design_pattern)
+
+### Day 9: May 25, 2018
+
+**Today's Progress**: 
+- Updation of Socket.io Implementation in the Library.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Socket IO Stockmarket](https://github.com/shishir99111/socket-io-stockmarket)
+
+### Day 10: May 26, 2018
+
+**Today's Progress**: 
+- Started Developming Platform to explore and search the Ethereum blockchain for transactions, addresses, balance leveraging Etherscan API, Done with the minimal implementation.
+
+**Thoughts** Its Time for some Whiteboard Practice! 
+
+**Link(s) to work**
+1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
