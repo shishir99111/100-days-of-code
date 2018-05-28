@@ -111,3 +111,25 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 
 **Link(s) to work**
 1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
+
+### Day 11: May 27, 2018
+
+**Today's Progress**:
+- No git commit!
+- but, yes it was 12 Hour straight Hackathon, content **Confidential
+- Tech Stack: Nodejs, MySQL, Angular, ExpressJS
+
+**Thoughts** Be hydrated #24Hours #Hackathon!
+
+**Link(s) to work**
+1. [Follow me for more at](https://github.com/shishir99111/)
+
+### Day 12: May 28, 2018
+
+**Today's Progress**:
+- Ethereum blockchain explorer refactoring (include ES6, Folder Structure, Connection Handling).
+
+**Thoughts** Hard Work get shit get,but its Planning that makes things Masterpiece.
+
+**Link(s) to work**
+1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
