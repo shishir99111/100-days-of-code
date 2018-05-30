@@ -129,7 +129,15 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 **Today's Progress**:
 - Ethereum blockchain explorer refactoring (include ES6, Folder Structure, Connection Handling).
 
-**Thoughts** Hard Work get shit get,but its Planning that makes things Masterpiece.
+**Thoughts** Hard Work get the shit done,but its Planning that makes it a Masterpiece.
+
+**Link(s) to work**
+1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
+
+### Day 13: May 29, 2018
+
+**Today's Progress**:
+- Handling of all the Database operation in Ethereum Blockchain Explorer.
 
 **Link(s) to work**
 1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
