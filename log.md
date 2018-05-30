@@ -137,7 +137,7 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 ### Day 13: May 29, 2018
 
 **Today's Progress**:
-- Handling of all the Database operation in Ethereum Blockchain Explorer.
+- Handling of all the Database operation and configuration in Ethereum Blockchain Explorer.
 
 **Link(s) to work**
 1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
