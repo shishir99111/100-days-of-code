@@ -141,3 +141,11 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 
 **Link(s) to work**
 1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
+
+### Day 14: May 30, 2018
+
+**Today's Progress**:
+- Capturing all the relevant transactions information and record keeping and refactoring.
+
+**Link(s) to work**
+1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
