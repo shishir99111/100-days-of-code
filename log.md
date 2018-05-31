@@ -149,3 +149,13 @@ If you feel you're stuck in a single topic for long as you're involved in explor
 
 **Link(s) to work**
 1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
+
+### Day 15: May 31, 2018
+
+**Today's Progress**:
+- Worked on Trade API Ticker implementation using Socket connection.
+
+**Thoughts** Fun fact of Developer is they can work on alot of Domains indepth at different path of their career. I think thats why they get bored of things easly.
+
+**Link(s) to work**
+1. [Ethereum Blockchain Explorer](https://github.com/shishir99111/ethereum-blockchain-explorer)
